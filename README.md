@@ -1,4 +1,4 @@
 zaman.ws
 ========
 
-time.is clone
+a good service to track your actions with time
